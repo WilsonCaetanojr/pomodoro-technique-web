@@ -55,3 +55,13 @@
 .countdownButton:hover {
   background: #4953b8;
 }
+
+.countdownButtonActive {
+  background-color: #fff;
+  color: #2e384d;
+}
+
+.countdownButtonActive:hover {
+  background-color: #e83f5b;
+  color: #fff;
+}
